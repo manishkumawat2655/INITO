@@ -234,7 +234,7 @@ STOP
 > Time Complexity = O(m*h) <br />
 Auxiliary Space = O(1)
 
-# Outputs Of programme
+# Outputs Of Programme
 **output response of these commands on terminal**<br />
 <img src="out1.png" style="width:1.10057in;height:.29637in" />
 <img src="out2.png" style="width:2.10057in;height:.49637in" />
@@ -245,5 +245,6 @@ Auxiliary Space = O(1)
 ---
 **Made with ❤️ By Manish Kumar Kumawat**<br />
 **email::manishfte@gmail.com**<br />
+**contactno. 9571561104**
 **RollNo. 120EE0476**
 
