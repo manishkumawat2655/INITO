@@ -77,7 +77,7 @@ node pointer parent <br />
 
 ---
 ### ls(node=pwd->child)
-This algorithm prints all node name in a directory or give list of all these nodes
+This algorithm(pseudo code flow) prints all node name in a directory or give list of all these nodes
 ```
 START
 1.  if (node in not null)
@@ -91,7 +91,7 @@ Auxiliary Space = O(1)
 
 ---
 ### pwd_str(root, pwd) 
-This algorithm returns the complete path of a node with respect to root  (in string from five path)
+This algorithm(pseudo code flow) returns the complete path of a node with respect to root  (in string from five path)
 ```
 START 
 1.  set path to empty string 
@@ -110,7 +110,7 @@ Auxiliary Space = O(h)
 
 ---
 ### cd(root, pwd, path)
-This algorithm returns the directory of desired path with respect to root or pwd ( working from both '.' and '..' commands also)
+This algorithm(pseudo code flow) returns the directory of desired path with respect to root or pwd ( working from both '.' and '..' commands also)
 ```python
 START
 1.  set path_list to split(path, '/')
@@ -149,7 +149,7 @@ Auxiliary Space = O(h)
 ---
 ### create_mkdir(root, pwd, path, type)
 
-This algorithm creates and returns a new node of the given path and type
+This algorithm(pseudo code flow) creates and returns a new node of the given path and type
 ```python
 START
 1.  get parent_path and name from path
@@ -184,7 +184,7 @@ Auxiliary Space = O(1)
 
 ---
 ### remove_rm(root, pwd, path)
-This algorithm removes the node of given path
+This algorithm (pseudo code flow) removes the node of given path
 ```python
 START
 1.  set node to find_node(root, pwd, path)
@@ -212,7 +212,7 @@ Auxiliary Space = O(1)
 
 ---
 ### cat(root, pwd, path)
-This algorithm displays the contents of the file in given path
+This algorithm(pseudo code flow) displays the contents of the file in given path
 ```python
 START
 1.  set node to find_node(root, pwd, path)
@@ -244,7 +244,7 @@ Auxiliary Space = O(1)
 
 ---
 **Made with ❤️ By Manish Kumar Kumawat**<br />
-**email::manishfte@gmail.com**<br />
+**email::manishfte@gmail.com, 120EE0476@nitrkl.ac.in**<br />
 **contactno. 9571561104**
 **RollNo. 120EE0476**
 
