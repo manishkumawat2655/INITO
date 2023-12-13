@@ -244,6 +244,6 @@ Auxiliary Space = O(1)
 
 ---
 **Made with ❤️ By Manish Kumar Kumawat**<br />
-**email::manishfte@gmail.com**< /br>
+**email::manishfte@gmail.com**<br />
 **RollNo. 120EE0476**
 
