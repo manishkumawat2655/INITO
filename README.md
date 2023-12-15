@@ -233,6 +233,13 @@ STOP
 ```
 > Time Complexity = O(m*h) <br />
 Auxiliary Space = O(1)
+>
+ # To Run / Test the program 
+Copy the code from github repo (inito_project.cpp) file .
+Paste it on online C++ compiler for best expirence 
+**https://www.onlinegdb.com/online_c++_compiler**<br />
+**https://www.tutorialspoint.com/compile_cpp_online.php**
+
 
 # Outputs Of Programme
 **output response of these commands on terminal**<br />
