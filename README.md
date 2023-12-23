@@ -1,4 +1,4 @@
-# INITO { IN-File Management System }
+# INITO { IN-Memory File Management System }
 
 
 ##  assessment solution overview
